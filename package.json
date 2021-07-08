@@ -1,0 +1,23 @@
+{
+  "name": "flash-kanji",
+  "version": "1.0.0",
+  "description": "Electron flash card app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tainhenning/flash-kanji.git"
+  },
+  "author": "Tain Henning",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tainhenning/flash-kanji/issues"
+  },
+  "homepage": "https://github.com/tainhenning/flash-kanji#readme",
+  "devDependencies": {
+    "electron": "^13.1.6"
+  }
+}
