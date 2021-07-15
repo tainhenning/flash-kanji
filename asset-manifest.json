@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/flash-kanji/static/css/main.077960a1.chunk.css",
-    "main.js": "/flash-kanji/static/js/main.3a7f37f8.chunk.js",
-    "main.js.map": "/flash-kanji/static/js/main.3a7f37f8.chunk.js.map",
+    "main.js": "/flash-kanji/static/js/main.815ef266.chunk.js",
+    "main.js.map": "/flash-kanji/static/js/main.815ef266.chunk.js.map",
     "runtime-main.js": "/flash-kanji/static/js/runtime-main.4703658f.js",
     "runtime-main.js.map": "/flash-kanji/static/js/runtime-main.4703658f.js.map",
     "static/js/2.821b0012.chunk.js": "/flash-kanji/static/js/2.821b0012.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.4703658f.js",
     "static/js/2.821b0012.chunk.js",
     "static/css/main.077960a1.chunk.css",
-    "static/js/main.3a7f37f8.chunk.js"
+    "static/js/main.815ef266.chunk.js"
   ]
 }
