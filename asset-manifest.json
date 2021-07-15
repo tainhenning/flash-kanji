@@ -1,22 +1,20 @@
 {
   "files": {
     "main.css": "/flash-kanji/static/css/main.59b57ade.chunk.css",
-    "main.js": "/flash-kanji/static/js/main.10202c0a.chunk.js",
-    "main.js.map": "/flash-kanji/static/js/main.10202c0a.chunk.js.map",
-    "runtime-main.js": "/flash-kanji/static/js/runtime-main.fabdd445.js",
-    "runtime-main.js.map": "/flash-kanji/static/js/runtime-main.fabdd445.js.map",
+    "main.js": "/flash-kanji/static/js/main.cb00b245.chunk.js",
+    "main.js.map": "/flash-kanji/static/js/main.cb00b245.chunk.js.map",
+    "runtime-main.js": "/flash-kanji/static/js/runtime-main.4703658f.js",
+    "runtime-main.js.map": "/flash-kanji/static/js/runtime-main.4703658f.js.map",
     "static/js/2.821b0012.chunk.js": "/flash-kanji/static/js/2.821b0012.chunk.js",
     "static/js/2.821b0012.chunk.js.map": "/flash-kanji/static/js/2.821b0012.chunk.js.map",
-    "static/js/3.2fdb875d.chunk.js": "/flash-kanji/static/js/3.2fdb875d.chunk.js",
-    "static/js/3.2fdb875d.chunk.js.map": "/flash-kanji/static/js/3.2fdb875d.chunk.js.map",
     "index.html": "/flash-kanji/index.html",
     "static/css/main.59b57ade.chunk.css.map": "/flash-kanji/static/css/main.59b57ade.chunk.css.map",
     "static/js/2.821b0012.chunk.js.LICENSE.txt": "/flash-kanji/static/js/2.821b0012.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fabdd445.js",
+    "static/js/runtime-main.4703658f.js",
     "static/js/2.821b0012.chunk.js",
     "static/css/main.59b57ade.chunk.css",
-    "static/js/main.10202c0a.chunk.js"
+    "static/js/main.cb00b245.chunk.js"
   ]
 }
